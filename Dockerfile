@@ -1,4 +1,4 @@
-FROM docker:dind
+FROM docker:latest
 
 MAINTAINER Leroy Shirto <leroy.shirto@fasthosts.com>
 
